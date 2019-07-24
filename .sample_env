@@ -1,0 +1,2 @@
+export CHARGEBEE_SITE="<chargebee site>"
+export CHARGEBEE_API_KEY="<your chargebee api key>"
